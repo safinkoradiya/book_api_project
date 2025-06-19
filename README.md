@@ -16,9 +16,6 @@ Includes API key–based access control and complete CRUD functionality for book
 
 ---
 
-## ⚡️ Flow Chart
--  ![](screenshots/flow-chart.png) 
-
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repository
@@ -155,6 +152,10 @@ Download the full test collection:
   "message": "Missing or invalid API key"
 }
 ```
+---
+
+## ⚡️ Flow Chart
+-  ![](screenshots/flow-chart.png) 
 
 ---
 
