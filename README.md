@@ -1,12 +1,12 @@
 
-# 📚 Book Catalog API
+#  🌟 Book Catalog API
 
 A RESTful Django API to manage a book catalog with authentication and file upload support.  
 Includes API key–based access control and complete CRUD functionality for books.
 
 ---
 
-## 🚀 Features
+## ⚡️ Features
 
 - List all books (public)
 - Create, update, and delete books (requires API Key)
