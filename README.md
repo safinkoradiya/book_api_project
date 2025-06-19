@@ -115,8 +115,8 @@ Download the full test collection:
 
 | Test Case | Screenshot |
 |-----------|------------|
-| ✅ Create Book | ![](screenshots/book ading.png) |
-| ✅ Upload Cover | ![](screenshots/cover ding) |
+| ✅ Create Book | ![](screenshots/book-ading.png) |
+| ✅ Upload Cover | ![](screenshots/cover-upload.png) |
 | ❌ Invalid File Type | ![](screenshots/invalid-file.png) |
 | ❌ Unauthorized API Key | ![](screenshots/invalid-api-key.png) |
 | ❌ Upload > 2MB | ![](screenshots/file-too-large.png) |
