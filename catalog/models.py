@@ -18,7 +18,7 @@ class Book(models.Model):
         return self.title
 
     def clean(self):
-        # Add validation: published_date must not be in the future
+        
         if self.published_date > date.today():
             from django.core.exceptions import ValidationError
             raise ValidationError("Published date cannot be in the future.")
