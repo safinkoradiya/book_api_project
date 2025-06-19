@@ -5,7 +5,7 @@ from rest_framework import status
 from rest_framework.parsers import MultiPartParser
 from .models import Book
 from .serializers import BookSerializer
-from .decorators import require_api_key  # 👈 make sure this exists
+from .decorators import require_api_key  
 
 # GET (no auth), POST (auth)
 @api_view(['GET', 'POST'])
@@ -54,7 +54,7 @@ def delete_book(book):
     book.delete()
     return Response({'message': 'Book deleted'}, status=status.HTTP_204_NO_CONTENT)
 
-# ✅ Upload Cover Image
+
 @api_view(['POST'])
 @parser_classes([MultiPartParser])
 @require_api_key
