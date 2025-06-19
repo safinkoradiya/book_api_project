@@ -16,6 +16,8 @@ Includes API key–based access control and complete CRUD functionality for book
 
 ---
 
+## ⚡️ Flow Chart ![](screenshots/)
+
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the repository
