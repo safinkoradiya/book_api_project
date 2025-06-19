@@ -16,7 +16,8 @@ Includes API key–based access control and complete CRUD functionality for book
 
 ---
 
-## ⚡️ Flow Chart ![](screenshots/)
+## ⚡️ Flow Chart
+-  ![](screenshots/flow-chart.png) 
 
 ## 🛠️ Setup Instructions
 
