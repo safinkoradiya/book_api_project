@@ -107,7 +107,7 @@ SECRET_KEY=your-django-secret-key
 ## 🧪 Postman Collection
 
 Download the full test collection:  
-📁 `BookAPI.postman_collection.json`
+📁 `screenshots`
 
 ---
 
